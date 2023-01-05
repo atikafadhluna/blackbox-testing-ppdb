@@ -1,0 +1,17 @@
+{
+    "name": "google/login",
+    "autoload": {
+        "psr-4": {
+            "Google\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atikaafadhluna",
+            "email": "atikaafadhluna@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}
